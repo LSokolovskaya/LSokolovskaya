@@ -26,4 +26,4 @@ Unusual developer🖖🏼
 
 Same one you need🤝🏼
 
-![Liuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSokolovskaya)](https://github.com/LSokolovskaya)/github-readme-stats)
+![Liuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSokolovskaya)]
