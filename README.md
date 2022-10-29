@@ -16,7 +16,7 @@ Breaking stereotypes👊🏼
 
 Easily cope with any task👌🏼
 
-Like Timothy Cook (I really want to be like)😋
+look for me here : liubasokolovskaya@gmail.com, inst: Liuba_sokolovskaya🎞
 
 Always in touch📱
 
@@ -26,4 +26,5 @@ Unusual developer🖖🏼
 
 Same one you need🤝🏼
 
-![Liuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSokolovskaya)]
+![Liuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSokolovskaya)
+
