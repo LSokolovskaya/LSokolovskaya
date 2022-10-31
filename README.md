@@ -16,7 +16,7 @@ Breaking stereotypes👊🏼
 
 Easily cope with any task👌🏼
 
-look for me here : liubasokolovskaya@gmail.com, inst: Liuba_sokolovskaya🎞
+Look for me here : liubasokolovskaya@gmail.com, inst: Liuba_sokolovskaya🎞
 
 Always in touch📱
 
