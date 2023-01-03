@@ -13,8 +13,8 @@
 	<a href="https://www.instagram.com/liuba_sokolovskaya/">
 		<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 	</a>
-	<a href="https://web.telegram.org/k/#@difficult_blow">
-		<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram"/>
+	<a href="https://myaccount.google.com/?utm_source=OGB&tab=mk&utm_medium=app&pli=1">
+		<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=telegram&logoColor=red" alt="Gmail"/>
 	</a>
 </div>
 
