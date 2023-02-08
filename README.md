@@ -4,7 +4,7 @@
 
 -  I’m currently learning С# 👩‍💻
 -  I’m looking to collaborate on HSchool ❤️
--  Ask me about anything, I am happy to help 💃
+-  Ask me about anything, I am happy to help 
 
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/люба-соколовская-329b2a258/">
